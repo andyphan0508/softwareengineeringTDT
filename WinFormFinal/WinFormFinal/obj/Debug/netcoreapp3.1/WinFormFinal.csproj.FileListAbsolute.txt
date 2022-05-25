@@ -1,0 +1,16 @@
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\bin\Debug\netcoreapp3.1\WinFormFinal.exe
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\bin\Debug\netcoreapp3.1\WinFormFinal.deps.json
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\bin\Debug\netcoreapp3.1\WinFormFinal.runtimeconfig.json
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\bin\Debug\netcoreapp3.1\WinFormFinal.runtimeconfig.dev.json
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\bin\Debug\netcoreapp3.1\WinFormFinal.dll
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\bin\Debug\netcoreapp3.1\WinFormFinal.pdb
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.csproj.AssemblyReference.cache
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.Form1.resources
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.csproj.GenerateResource.cache
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.AssemblyInfoInputs.cache
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.AssemblyInfo.cs
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.csproj.CoreCompileInputs.cache
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.dll
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.pdb
+C:\Users\ericd\source\repos\WinFormFinal\WinFormFinal\obj\Debug\netcoreapp3.1\WinFormFinal.genruntimeconfig.cache
